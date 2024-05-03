@@ -239,7 +239,7 @@ Create a service instance to implement inbound communication. A service instance
 
     The following values have been set as default:
 
-    -   for plan `api`: `4300` \(12 hours\)
+    -   for plan `api`: `43200` \(12 hours\)
 
     -   for plan `integration-flow`: `3600` \(1 hour\)
 
